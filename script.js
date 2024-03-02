@@ -20,7 +20,7 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, usando óculos escuro e blusa preta e fundo degradê com a cor rosa à esquerda e azul à direita"
+      "Foto de Mayk Brito sorrindo, usando óculos escuro, vestindo uma jaqueta de couro, com um fundo gradiente de azul para roxo"
     )
   } else {
     // Se estiver em dark mode, manter a imagem normal
